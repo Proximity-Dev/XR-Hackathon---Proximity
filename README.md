@@ -3,10 +3,9 @@ Demo project for XR Hackathon 2021
 
 Become a skilled rigger by overcoming load lifting challenges. Use your hands and voice to issue commands to move loads to their target.
 
-**About our Project**
+## **About our Project**
 **The Issue**
-
-- Rigger training involves extremely high value assets such as bridge, tower and container cranes. The chances to have such cranes at your disposition for training and practising are virtually zero. This disconnects rigger training from reality, creating a skills gap which affects workers and companies all around.
+Rigger training involves extremely high value assets such as bridge, tower and container cranes. The chances to have such cranes at your disposition for training and practising are virtually zero. This disconnects rigger training from reality, creating a skills gap which affects workers and companies all around.
 
 ### **About our Project**
 
