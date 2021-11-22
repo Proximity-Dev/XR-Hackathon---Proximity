@@ -1,4 +1,4 @@
-# XR-Hackathon - Rigger Simulator (Proximity)
+# XR Hackathon - Rigger Simulator (Proximity)
 Demo project for XR Hackathon 2021
 
 ## **About our Project**
