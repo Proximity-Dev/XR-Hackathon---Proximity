@@ -1,23 +1,23 @@
-# XR-Hackathon---Proximity
-Demo project for hackathon 112021
+# XR Hackathon - Rigger Simulator (Proximity)
+Demo project for XR Hackathon 2021
 
-**Elevator Pitch (140 characters)**
+## **About our Project**
+Become a skilled rigger by overcoming load lifting challenges. Use your hands and voice to issue commands to move loads to their target.
 
-- Become a skilled rigger by overcoming load lifting challenges. Use your hands and voice to issue commands to move loads to their target.
+**The Issue**
 
-### **About our Project**
+Rigger training involves extremely high value assets such as bridge, tower and container cranes. The chances to have such cranes at your disposition for training and practising are virtually zero. This disconnects rigger training from reality, creating a skills gap which affects workers and companies all around.
 
-**The Issue: Explain what motivated your project. Brief idea of what you're trying to solve or implement. (400 characters max)**
+**Our Magic Solution**
 
-- Rigger training involves extremely high value assets such as bridge, tower and container cranes. The chances to have such cranes at your disposition for training and practising are virtually zero. This disconnects rigger training from reality, creating a skills gap which affects workers and companies all around.
+We are harnessing the unique combined power of virtual reality, hand tracking, voice commands and the Presence Platform to provide an innovative solution that makes rigger training scenarios and machinery finally accessible. Thanks to virtual assets, training is risk free while maintaining natural hand and voice interactions as in real life jobs.
 
-**Our Magic Solution: Explain what makes your project unique. Briefly how the solution works, is it new, is it innovative, something that you came on your own. (400 characters)**
+**How it Works**
 
-- We are harnessing the unique combined power of virtual reality, hand tracking and voice commands to provide an innovative solution that makes rigger training scenarios and machinery finally accessible. With virtual assets, training is risk free while maintaining natural hand and voice interactions as in real life operations.
+1. **Identify Target:** Move the load safely from point A to point B.
+2. **Start Movement:** Use your RIGHT HAND to make a sign. Use your LEFT HAND to PRESS AND HOLD the button, say GO and RELEASE.
+3. **Direct Load**: Use your RIGHT HAND to make a sign to switch directions.
+4. **Stop Movement**: Use your LEFT HAND to PRESS AND HOLD the button, say STOP*and RELEASE.
+5. **Avoid Obstacles!** Repeat prior steps until load arrives safely to it's destination.
 
-**How it Works: This section will only display if the steps are completed. You can also add up to 2 extra steps.**
-
-1. Identify load destination.
-2. Use hand gestures to indicate movement direction.
-3. Activate microphone and speak voice command to initiate movement.
-4. Repeat step 2 and 3 until load arrives safely to it's destination.
+Our project features a combination of hand tracking and voice commands to create natural interactions for rigger training. This proof of concept has the potential to integrate additional levels, scenarios, cranes, multi hand signs and situational voice commands.
