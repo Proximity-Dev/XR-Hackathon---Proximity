@@ -10,7 +10,7 @@ Rigger training involves extremely high value assets such as bridge, tower and c
 
 **Our Magic Solution**
 
-We are harnessing the unique combined power of virtual reality, hand tracking, voice commands and the Presence Platform to provide an innovative solution that makes rigger training scenarios and machinery finally accessible. Thanks to virtual assets, training is risk free while maintaining natural hand and voice interactions as in real life jobs.
+We are harnessing the unique combined power of virtual reality, hand tracking, voice commands and the Presence Platform to provide an innovative solution that makes rigger training scenarios and machinery finally accessible. Thanks to virtual assets, training is risk free while maintaining natural hand and voice interactions as in real life jobs and activities.
 
 **How it Works**
 
@@ -20,4 +20,4 @@ We are harnessing the unique combined power of virtual reality, hand tracking, v
 4. **Stop Movement**: Use your LEFT HAND to PRESS AND HOLD the button, say STOP*and RELEASE.
 5. **Avoid Obstacles!** Repeat prior steps until load arrives safely to it's destination.
 
-Our project features a combination of hand tracking and voice commands to create natural interactions for rigger training. This proof of concept has the potential to integrate additional levels, scenarios, cranes, multi hand signs and situational voice commands.
+Our project features a combination of hand tracking and voice commands to create natural interactions for rigger training. This proof of concept represents the base for a complete simulator with additional levels, scenarios, cranes, multi hand signs and situational voice commands.
