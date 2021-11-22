@@ -14,7 +14,7 @@ We are harnessing the unique combined power of virtual reality, hand tracking, v
 
 **How it Works**
 
-1. **Identify Target:** Move the load safely from point A to point B.
+1. **Identify Target:** Check your surroundings and plan your route.
 2. **Start Movement:** Use your RIGHT HAND to make a sign. Use your LEFT HAND to PRESS AND HOLD the button, say GO and RELEASE.
 3. **Direct Load**: Use your RIGHT HAND to make a sign to switch directions.
 4. **Stop Movement**: Use your LEFT HAND to PRESS AND HOLD the button, say STOP*and RELEASE.
